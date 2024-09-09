@@ -1,6 +1,5 @@
 # Evernode Beta Resources
-
-Welcome to the **Evernode Beta Resources** repository! This repository contains the essential resources needed for `Ubuntu 24.04` upgrade relaed testings of Evernode. You'll find various scripts, binaries, and configurations required to get started and participate in the beta testing phase.
+Welcome to the **Evernode Beta Resources** repository for `Evernode Ubuntu 24.04` Beta testing. This repository contains the essential resources needed for `Evernode Ubuntu 24.04` upgrade.. You'll find various scripts, binaries, and configurations required to get started and participate in the beta testing phase.
 
 ## Announcements
 
